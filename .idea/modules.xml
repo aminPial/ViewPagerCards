@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewPagerCards.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewPagerCards.iml" group="ViewPagerCards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ViewPagerCards/app" />
+    </modules>
+  </component>
+</project>
